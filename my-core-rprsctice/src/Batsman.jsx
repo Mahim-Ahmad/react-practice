@@ -30,7 +30,7 @@ import { useState } from "react"
             <h3>Player : Bangla batsman</h3>
             <p>six : {six}</p>
             <h1>score : {runs}</h1>
-            <button onClick={handleSingle}>singlr</button>
+            <button onClick={handleSingle}>single</button>
             <br />
             <button onClick={handlefour}>four</button>
             <br />
